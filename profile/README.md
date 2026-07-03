@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <a href="https://perchai.app">Website</a> ·
-  <a href="https://perchai.app/docs">Docs</a> ·
+  <a href="https://www.perchai.app">Website</a> ·
+  <a href="https://www.perchai.app/docs">Docs</a> ·
+  <a href="https://www.perchai.app/pricing">Pricing</a> ·
   <a href="https://chat.perchai.app">Try it on the web</a> ·
   <a href="https://github.com/Perch-Terminal-AI/perch-cookbook">Cookbook</a>
 </p>
@@ -41,4 +42,4 @@ npm install -g perchai-cli
 perch run "research this folder and tell me what matters"
 ```
 
-New here? Start with the [Cookbook](https://github.com/Perch-Terminal-AI/perch-cookbook) for runnable examples, or read [how Perch works](https://perchai.app/docs).
+New here? Start with the [Cookbook](https://github.com/Perch-Terminal-AI/perch-cookbook) for runnable examples, or read [how Perch works](https://www.perchai.app/docs/concepts/how-perch-works). More on [citations](https://www.perchai.app/docs/concepts/citations), [models](https://www.perchai.app/docs/concepts/models), and [memory](https://www.perchai.app/docs/concepts/memory).
